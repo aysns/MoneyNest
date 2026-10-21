@@ -16,17 +16,17 @@ MoneyNest helps users manage income, expenses, and daily transactions with an OC
 - **Expense Analytics** — Analyze spending by category.
 - **Offline Storage** — Save transactions locally using Room Database.
 
+
 ## 📱 App Screenshots
 
 | Dashboard | History |
 |:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![History](screenshots/history.png) |
+| <img src="screenshots/dashboard.png" width="230"> | <img src="screenshots/history.png" width="230"> |
 
 | Receipt Scanner | Analytics |
 |:---:|:---:|
-| ![Scanner](screenshots/scanner.png) | ![Analytics](screenshots/analytics.png) |
+| <img src="screenshots/scanner.png" width="230"> | <img src="screenshots/analytics.png" width="230"> |
 
-*Screenshots will appear after the images are uploaded.*
 
 ## 📥 Download APK
 
