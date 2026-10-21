@@ -1,0 +1,52 @@
+
+# Android Studio
+*.iml
+.gradle/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.DS_Store
+/captures/
+
+# Local configuration
+local.properties
+**/local.properties
+
+# Build outputs
+/build/
+**/build/
+*.apk
+*.aab
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Signing keys
+*.jks
+*.keystore
+*.p12
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Sensitive configuration
+.env
+.env.*
+secrets.properties
+keystore.properties
+google-services.json
+
+# Android Studio local settings
+.idea/
+
+# Kotlin generated files and logs
+.kotlin/
+*.log
