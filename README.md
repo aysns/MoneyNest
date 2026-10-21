@@ -28,6 +28,16 @@ MoneyNest helps users manage income, expenses, and daily transactions with an OC
 
 *Screenshots will appear after the images are uploaded.*
 
+## 📥 Download APK
+
+**MoneyNest v1.0.0** is available for Android devices.
+
+📱 **[Download MoneyNest APK](https://github.com/aysns/MoneyNest/releases/download/v1.0.0/app-release.apk)**
+
+Download the APK, install it on your Android device, and start managing your finances.
+
+> Note: Android may ask you to allow installation from this source because the application is distributed outside Google Play Store.
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
